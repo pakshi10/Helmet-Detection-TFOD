@@ -1,0 +1,123 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image (1).png,640,480,No Helmet,95,139,181,244
+image (1).png,640,480,Helmet,235,73,457,276
+image (10).png,640,480,Helmet,195,95,375,320
+image (100).png,640,480,Helmet,56,193,279,409
+image (101).png,640,480,Helmet,94,151,318,401
+image (102).png,640,480,Helmet,84,153,341,394
+image (103).png,640,480,No Helmet,97,66,230,245
+image (104).png,640,480,No Helmet,173,69,312,245
+image (105).png,640,480,No Helmet,362,64,502,247
+image (106).png,640,480,No Helmet,385,62,528,246
+image (107).png,640,480,No Helmet,289,106,413,271
+image (108).png,640,480,No Helmet,192,134,309,293
+image (11).png,640,480,No Helmet,266,71,396,265
+image (12).png,640,480,No Helmet,282,71,409,260
+image (13).png,640,480,No Helmet,254,62,399,256
+image (14).png,640,480,No Helmet,293,80,453,274
+image (15).png,640,480,No Helmet,186,64,330,256
+image (16).png,640,480,No Helmet,305,77,453,266
+image (17).png,640,480,No Helmet,237,74,377,262
+image (18).png,640,480,No Helmet,131,62,299,257
+image (19).png,640,480,No Helmet,304,65,458,253
+image (2).png,640,480,No Helmet,262,62,464,269
+image (2).png,640,480,Helmet,94,138,178,254
+image (20).png,640,480,No Helmet,183,72,343,302
+image (21).png,640,480,No Helmet,220,78,371,291
+image (22).png,640,480,No Helmet,108,117,270,301
+image (23).png,640,480,No Helmet,204,156,324,304
+image (24).png,640,480,No Helmet,352,85,519,283
+image (25).png,640,480,No Helmet,203,101,338,290
+image (26).png,640,480,No Helmet,238,133,373,320
+image (27).png,640,480,Helmet,347,116,484,278
+image (27).png,640,480,No Helmet,177,69,353,324
+image (28).png,640,480,No Helmet,176,77,288,245
+image (28).png,640,480,Helmet,325,103,463,258
+image (29).png,640,480,Helmet,317,101,456,263
+image (29).png,640,480,No Helmet,86,61,224,220
+image (3).png,640,480,Helmet,87,121,270,356
+image (3).png,640,480,No Helmet,289,68,448,290
+image (30).png,640,480,Helmet,255,150,395,295
+image (31).png,640,480,Helmet,178,123,325,305
+image (32).png,640,480,Helmet,146,61,340,291
+image (33).png,640,480,Helmet,220,113,394,311
+image (34).png,640,480,Helmet,223,119,302,212
+image (35).png,640,480,Helmet,245,94,350,228
+image (36).png,640,480,Helmet,158,116,289,266
+image (37).png,640,480,No Helmet,253,61,333,139
+image (38).png,640,480,No Helmet,297,112,369,198
+image (39).png,640,480,No Helmet,309,137,406,243
+image (4).png,640,480,Helmet,24,125,210,341
+image (4).png,640,480,No Helmet,285,62,456,248
+image (40).png,640,480,No Helmet,273,67,414,272
+image (41).png,640,480,Helmet,284,102,526,365
+image (42).png,640,480,Helmet,209,82,433,369
+image (43).png,640,480,Helmet,174,62,411,358
+image (44).png,640,480,Helmet,170,104,325,259
+image (45).png,640,480,Helmet,194,125,329,262
+image (46).png,640,480,Helmet,329,101,409,185
+image (47).png,640,480,Helmet,224,106,298,201
+image (48).png,640,480,Helmet,192,78,376,301
+image (49).png,640,480,Helmet,114,99,355,386
+image (5).png,640,480,Helmet,294,71,427,208
+image (50).png,640,480,Helmet,150,109,420,369
+image (51).png,640,480,Helmet,206,99,406,301
+image (52).png,640,480,Helmet,236,99,415,290
+image (53).png,640,480,Helmet,245,99,416,300
+image (54).png,640,480,Helmet,229,98,406,299
+image (55).png,640,480,Helmet,257,104,431,335
+image (56).png,640,480,Helmet,262,105,433,315
+image (57).png,640,480,Helmet,211,103,418,294
+image (58).png,640,480,No Helmet,225,105,358,293
+image (59).png,640,480,No Helmet,175,104,334,285
+image (6).png,640,480,Helmet,181,63,277,182
+image (60).png,640,480,No Helmet,235,115,382,288
+image (61).png,640,480,No Helmet,221,103,379,299
+image (62).png,640,480,No Helmet,208,104,351,275
+image (63).png,640,480,No Helmet,203,108,332,291
+image (64).png,640,480,No Helmet,223,158,333,292
+image (65).png,640,480,No Helmet,324,132,483,308
+image (66).png,640,480,No Helmet,239,107,362,265
+image (67).png,640,480,No Helmet,107,75,271,257
+image (68).png,640,480,No Helmet,193,70,342,251
+image (69).png,640,480,No Helmet,201,79,348,241
+image (7).png,640,480,Helmet,259,100,424,309
+image (70).png,640,480,Helmet,189,115,378,301
+image (71).png,640,480,Helmet,120,100,339,274
+image (72).png,640,480,Helmet,339,86,502,282
+image (72).png,640,480,No Helmet,141,144,249,286
+image (73).png,640,480,Helmet,266,64,450,272
+image (73).png,640,480,No Helmet,100,133,177,256
+image (74).png,640,480,Helmet,347,79,515,285
+image (74).png,640,480,No Helmet,124,127,250,274
+image (75).png,640,480,Helmet,341,82,526,278
+image (75).png,640,480,No Helmet,145,122,277,276
+image (76).png,640,480,Helmet,329,77,504,290
+image (76).png,640,480,No Helmet,155,121,274,285
+image (77).png,640,480,Helmet,318,82,498,281
+image (77).png,640,480,No Helmet,144,88,263,270
+image (78).png,640,480,Helmet,461,86,637,305
+image (78).png,640,480,No Helmet,227,104,417,394
+image (79).png,640,480,Helmet,373,106,509,248
+image (8).png,640,480,Helmet,78,91,294,321
+image (80).png,640,480,Helmet,348,124,478,271
+image (81).png,640,480,Helmet,379,132,505,290
+image (82).png,640,480,Helmet,297,121,412,258
+image (83).png,640,480,Helmet,370,145,495,296
+image (84).png,640,480,Helmet,348,143,469,289
+image (85).png,640,480,Helmet,352,71,438,182
+image (86).png,640,480,Helmet,354,68,444,169
+image (87).png,640,480,Helmet,348,68,434,169
+image (88).png,640,480,Helmet,331,66,430,172
+image (89).png,640,480,Helmet,347,73,438,189
+image (9).png,640,480,Helmet,57,76,257,319
+image (90).png,640,480,Helmet,354,74,440,191
+image (91).png,640,480,Helmet,307,121,436,281
+image (92).png,640,480,Helmet,320,128,447,289
+image (93).png,640,480,Helmet,354,123,486,289
+image (94).png,640,480,Helmet,309,63,448,206
+image (95).png,640,480,Helmet,350,62,479,217
+image (96).png,640,480,Helmet,329,64,464,215
+image (97).png,640,480,Helmet,138,139,359,392
+image (98).png,640,480,Helmet,102,137,349,406
+image (99).png,640,480,Helmet,96,198,298,415
