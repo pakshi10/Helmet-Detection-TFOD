@@ -165,7 +165,7 @@ TensorFlow needs hundreds of images of an object to train a good detection class
 To gather images from Webcam using use data_gen.py.I have trained on 900 images.
 
 <p align="center">
-  <img src="Images/collage.PNG">
+  <img src="Images/Collage.PNG">
 </p>
 
 You can use your phone to take pictures of the objects or download images of the objects from Google Image Search. I recommend having at least 200 pictures overall. I used 311 pictures to train my card detector.
