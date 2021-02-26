@@ -66,5 +66,8 @@ This tutorial will use the Faster-RCNN-Inception-V2 model. [Download the model h
 #### 2c. Download this tutorial's repository from GitHub
 Download the full repository located on this page (scroll to the top and click Clone or Download) and extract all the contents directly into the C:\tensorflow1\models\research\object_detection directory. (You can overwrite the existing "README.md" file.) This establishes a specific directory structure that will be used for the rest of the tutorial. 
 
-At this point, here is what your \object_detection folder should look like:
+At this point, here is what your \research folder should look like:
+<p align="center">
+  <img src="Images/Desktop.jpg">
+</p>
 
