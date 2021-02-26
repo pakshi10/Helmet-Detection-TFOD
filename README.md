@@ -68,6 +68,6 @@ Download the full repository located on this page (scroll to the top and click C
 
 At this point, here is what your \research folder should look like:
 <p align="center">
-  <img src="Images/Desktop.jpg">
+  <img src="Images/Desktop.png">
 </p>
 
