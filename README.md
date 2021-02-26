@@ -12,7 +12,7 @@
 # Demo
 
  https://www.youtube.com/watch?v=cwKQEWvWzIQ
- [![Link to my YouTube video!](https://github.com/pakshi10/Helmet-Detection-TFOD/blob/main/Images/Helmet.jpg)](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+ [![Link to my YouTube video!](https://github.com/pakshi10/Helmet-Detection-TFOD/blob/main/Images/Helmet.jpg)](https://www.youtube.com/watch?v=cwKQEWvWzIQ)
 
  
 # Overview
